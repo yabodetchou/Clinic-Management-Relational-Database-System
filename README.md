@@ -8,7 +8,7 @@ The database translates complex real-world clinical relationships into structure
 * `Appointment_MedicalCondition` (Maps appointments to multiple diagnoses)
 * `Appointment_Medication` (Maps appointments to multiple prescribed treatments)
 
-![Alt text](images/ERD.png)
+![Alt text](image/ERD.png)
 
 ## My Core Contributions (Yabo Detchou)
 I completed the execution of core database programming segments, testing frameworks, and analytics logic within our team framework:
