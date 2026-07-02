@@ -20,7 +20,7 @@ I completed the execution of core database programming segments, testing framewo
 
 
 
-## Sample Queries Authored By Me
+## Sample Queries 
 
 ### 1. Doctor Caseload Ranking (Aggregation & Joins)
 This query calculates total medical appointments assigned to each physician using a `LEFT JOIN` pattern to ensure comprehensive counting across staff rosters.
