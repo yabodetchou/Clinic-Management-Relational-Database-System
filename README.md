@@ -3,8 +3,6 @@
 ## Project Overview
 This repository contains an end-to-end relational database system designed from an unnormalized healthcare dataset using Oracle SQL. The system models a multi-hospital clinical ecosystem, eliminating data redundancies, enforcing relational constraints, and extracting critical operational business intelligence.
 
-
-
 ## Schema Architecture
 The database translates complex real-world clinical relationships into structured tables normalized to Third Normal Form (3NF). It handles many-to-many (M:N) mappings through junction tables:
 * `Appointment_MedicalCondition` (Maps appointments to multiple diagnoses)
@@ -12,7 +10,7 @@ The database translates complex real-world clinical relationships into structure
 
 ![Alt text](images/ERD.png)
 
-## 💻 My Core Contributions (Yabo Detchou)
+## My Core Contributions (Yabo Detchou)
 I completed the execution of core database programming segments, testing frameworks, and analytics logic within our team framework:
 
 * **Entity Population**: Structured data injection and authored script populating 100% of rows for the core `Hospital` and `Appointment` relational tables.
